@@ -1,0 +1,7 @@
+project_id = "owuqyvezpupgmqxmlona"
+
+[functions.parse-pdf]
+verify_jwt = false
+
+[functions.improve-resume]
+verify_jwt = false
